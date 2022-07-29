@@ -1,7 +1,6 @@
 -	Our source code link is a kaggle notebook : https://www.kaggle.com/code/kawwie/neural-style-transfer
 
 -	In the "Initialize images" cell: 
-
 The user need to set the base_img_link and the style_img_link, which is the link to the content and style images respectively
 The user need to set their desired img_height and img_width, both of them should be even numbers to avoid the image transform net's output being in the wrong dimension
 
